@@ -1,0 +1,295 @@
+[
+    {
+        "name": "Village - House with Bolt Cutters",
+        "category": ["Village"],
+        "region": "Village"
+    },
+    {
+        "name": "Village - House with Radio",
+        "category": ["Village"],
+        "region": "Village"
+    },    
+    {
+        "name": "Village - Intro House with Basement Ladder",
+        "category": ["Village"],
+        "region": "Village"
+    },
+    {
+        "name": "Village - Intro House with Explosive Barrel",
+        "category": ["Village"],
+        "region": "Village"
+    },
+    {
+        "name": "Village - Church - Interior Shrine",
+        "category": ["Village"],
+        "region": "Village"
+    },
+    {
+        "name": "Village - Luiza's House - Locked Shrine Outside",
+        "category": ["Village"],
+        "region": "Village"
+    },
+    {
+        "name": "Village - Post-Castle Shrine in Cave",
+        "category": ["Village"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Village - Chest in the Red House",
+        "category": ["Village"],
+        "region": "After Castle"
+    },
+
+    {
+        "name": "Castle - Courtyard Key Chest",
+        "category": ["Castle Dimitrescu"],
+        "region": "Castle Dimitrescu"
+    },
+    {
+        "name": "Castle - Dimitrescu's Chambers Wall",
+        "category": ["Castle Dimitrescu"],
+        "region": "Castle Dimitrescu",
+        "requires": "|Courtyard Key|"
+    },
+    {
+        "name": "Castle - Attic Chair with Rifle",
+        "category": ["Castle Dimitrescu"],
+        "region": "Castle Dimitrescu",
+        "requires": "|Courtyard Key| AND |Dimitrescu's Key|"
+    },
+    {
+        "name": "Castle - Dimitrescu Defeated",
+        "category": ["Castle Dimitrescu"],
+        "region": "Castle Dimitrescu",
+        "requires": "|Dimitrescu's Key| AND |M1897 Shotgun| AND |Shotgun Ammo Voucher|"
+    },
+
+    {
+        "name": "Doll House - Doll Woman Right Shoulder",
+        "category": ["Doll House"],
+        "region": "Doll House"
+    },
+    {
+        "name": "Doll House - Bottom of the Well",
+        "category": ["Doll House"],
+        "region": "Doll House",
+        "requires": "|Silver Key|"
+    },
+    {
+        "name": "Doll House - Donna Defeated 1",
+        "category": ["Doll House"],
+        "region": "Doll House",
+        "requires": "|Silver Key| AND |Breaker Box Key|"
+    },
+    {
+        "name": "Doll House - Donna Defeated 2",
+        "category": ["Doll House"],
+        "region": "Doll House",
+        "requires": "|Silver Key| AND |Breaker Box Key|"
+    },
+
+    {
+        "name": "Reservoir - Moreau Watching TV",
+        "category": ["Reservoir"],
+        "region": "Reservoir"
+    },
+    {
+        "name": "Reservoir - Underground Boat Shack",
+        "category": ["Reservoir"],
+        "region": "Reservoir"
+    },
+    {
+        "name": "Reservoir - Moreau Defeated",
+        "category": ["Reservoir"],
+        "region": "Reservoir",
+        "requires": "|Boat Key| AND |F2 Rifle| AND |Rifle Ammo Voucher|"
+    },
+    
+    {
+        "name": "Castle - Cave After Exit - Fish 1",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Castle - Cave After Exit - Fish 2",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Castle - Cave After Exit - Fish 3",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Castle - Raised Drawbridge - Fish 1",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Castle - Raised Drawbridge - Fish 2",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Castle - Raised Drawbridge - Fish 3",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Reservoir - After 1st Boat Ride in Right Cave - Fish 1",
+        "category": ["Ingredients"],
+        "region": "Reservoir"
+    },
+    {
+        "name": "Reservoir - After 1st Boat Ride in Right Cave - Fish 2",
+        "category": ["Ingredients"],
+        "region": "Reservoir"
+    },
+    {
+        "name": "Reservoir - After 1st Boat Ride in Right Cave - Fish 3",
+        "category": ["Ingredients"],
+        "region": "Reservoir"
+    },
+    {
+        "name": "Reservoir - After Moreau at Original Boat Spot - Fish 1",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Reservoir - After Moreau at Original Boat Spot - Fish 2",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Reservoir - After Moreau at Original Boat Spot - Fish 3",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Reservoir - After Moreau at Original Boat Spot - Fish 4",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Altar - Drawbridge Boat Ride After Moreau - Fish 1",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Altar - Drawbridge Boat Ride After Moreau - Fish 2",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Altar - Drawbridge Boat Ride After Moreau - Finest Fish",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Village - Key Gate in Graveyard - Poultry 1",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Village - Key Gate in Graveyard - Poultry 2",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Village - Red Chimney House - Poultry 1",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Village - Red Chimney House - Poultry 2",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Village - Red Chimney House - Poultry 3",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+    {
+        "name": "Reservoir - Pigs at First Windmill - Meat 1",
+        "category": ["Ingredients"],
+        "region": "Reservoir"
+    },
+    {
+        "name": "Reservoir - Pigs at First Windmill - Meat 2",
+        "category": ["Ingredients"],
+        "region": "Reservoir"
+    },
+    {
+        "name": "Reservoir - Pigs at First Windmill - Meat 3",
+        "category": ["Ingredients"],
+        "region": "Reservoir"
+    },
+    {
+        "name": "Reservoir - Pigs at First Windmill - Meat 4",
+        "category": ["Ingredients"],
+        "region": "Reservoir"
+    },
+    {
+        "name": "Village - After Moreau at Castle Entrance Sheep - Meat 1",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Village - After Moreau at Castle Entrance Sheep - Meat 2",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Village - After Moreau at Castle Entrance Sheep - Meat 3",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Village - After Moreau at Castle Entrance Sheep - Meat 4",
+        "category": ["Ingredients"],
+        "region": "After Reservoir"
+    },
+    {
+        "name": "Village - White Pig at House by Luiza's House - Quality Meat",
+        "category": ["Ingredients"],
+        "region": "After Castle"
+    },
+
+    {
+        "name": "Herbed Fish - Fish x3, Poultry x2",
+        "category": ["Recipes"],
+        "region": "Seafood Sunday",
+        "requires": "|Fish:3| AND |Poultry:2|",
+        "place_item": ["Herbed Fish Recipe"]
+    },
+    {
+        "name": "Three-Flavored Mititei - Fish x4, Poultry x2, Meat x3",
+        "category": ["Recipes"],
+        "region": "Seafood Sunday",
+        "requires": "|Fish:4| AND |Poultry:2| AND |Meat:3|",
+        "place_item": ["Three-Flavored Mititei Recipe"]
+    },
+    {
+        "name": "Ciorba de Porc - Fish x1, Meat x5, Quality Meat x1",
+        "category": ["Recipes"],
+        "region": "Seafood Sunday",
+        "requires": "|Fish| AND |Meat:5| AND |Quality Meat|",
+        "place_item": ["Ciorba de Porc Recipe"]
+    },
+    {
+        "name": "Sarmale de Peste - Fish x6, Finest Fish x1",
+        "category": ["Recipes"],
+        "region": "Seafood Sunday",
+        "requires": "|Fish:6| AND |Finest Fish|",
+        "place_item": ["Sarmale de Peste Recipe"]
+    },
+
+    {
+        "name": "Seafood Sunday is Saved!",
+        "category": ["F I S H"],
+        "region": "Seafood Sunday",
+        "victory": true,
+        "requires": "|Herbed Fish Recipe| AND |Three-Flavored Mititei Recipe| AND |Ciorba de Porc Recipe| AND |Sarmale de Peste Recipe|"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Fish",
+        "category": ["Ingredients"],
+        "count": 15, 
+        "progression": true
+    },
+    {
+        "name": "Finest Fish",
+        "category": ["Ingredients"],
+        "count": 1, 
+        "progression": true
+    },
+    {
+        "name": "Poultry",
+        "category": ["Ingredients"],
+        "count": 5, 
+        "progression": true
+    },
+    {
+        "name": "Meat",
+        "category": ["Ingredients"],
+        "count": 9, 
+        "progression": true
+    },
+    {
+        "name": "Quality Meat",
+        "category": ["Ingredients"],
+        "count": 1, 
+        "progression": true
+    },
+
+    {
+        "name": "Herbed Fish Recipe",
+        "category": ["Recipes"],
+        "count": 1, 
+        "progression": true
+    },
+    {
+        "name": "Three-Flavored Mititei Recipe",
+        "category": ["Recipes"],
+        "count": 1, 
+        "progression": true
+    },
+    {
+        "name": "Ciorba de Porc Recipe",
+        "category": ["Recipes"],
+        "count": 1, 
+        "progression": true
+    },
+    {
+        "name": "Sarmale de Peste Recipe",
+        "category": ["Recipes"],
+        "count": 1, 
+        "progression": true
+    },
+
+    {
+        "name": "Winged Key", 
+        "category": ["Keys", "Keys - Winged"], 
+        "progression": true
+    },
+    {
+        "name": "Four-Winged Key", 
+        "category": ["Keys", "Keys - Winged"], 
+        "progression": true
+    },
+    {
+        "name": "Four-Winged Unborn Key", 
+        "category": ["Keys", "Keys - Winged"], 
+        "progression": true
+    },
+
+    {
+        "name": "M1897 Shotgun", 
+        "category": ["Weapons"], 
+        "progression": true
+    },
+    {
+        "name": "F2 Rifle", 
+        "category": ["Weapons"], 
+        "progression": true
+    },
+
+    {
+        "name": "Handgun Ammo Voucher", 
+        "category": ["Ammo Vouchers"], 
+        "progression": true,
+        "count": 2
+    },
+    {
+        "name": "Shotgun Ammo Voucher", 
+        "category": ["Ammo Vouchers"], 
+        "progression": true,
+        "count": 2
+    },
+    {
+        "name": "Rifle Ammo Voucher", 
+        "category": ["Ammo Vouchers"], 
+        "progression": true,
+        "count": 2
+    },
+    
+    {
+        "name": "Maiden Crest", 
+        "category": ["Keys", "Keys - Castle"], 
+        "progression": true
+    },
+    {
+        "name": "Demon Crest",
+        "category": ["Keys", "Keys - Castle"],  
+        "progression": true
+    },
+
+    {
+        "name": "Courtyard Key", 
+        "category": ["Keys", "Keys - Castle"], 
+        "progression": true
+    },
+    {
+        "name": "Dimitrescu's Key", 
+        "category": ["Keys", "Keys - Castle"], 
+        "progression": true
+    },
+
+    {
+        "name": "Silver Key", 
+        "category": ["Keys", "Keys - Doll House"], 
+        "progression": true
+    },
+    {
+        "name": "Breaker Box Key", 
+        "category": ["Keys", "Keys - Doll House"], 
+        "progression": true
+    },
+
+    {
+        "name": "Boat Key", 
+        "category": ["Keys", "Keys - Reservoir"], 
+        "progression": true
+    }
+]

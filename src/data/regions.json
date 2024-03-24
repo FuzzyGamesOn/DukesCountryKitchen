@@ -1,0 +1,27 @@
+{
+    "Village": {
+        "starting": true,
+        "connects_to": ["Castle Dimitrescu"]
+    },
+    "Castle Dimitrescu": {
+        "connects_to": ["After Castle"],
+        "requires": "|Maiden Crest| AND |Demon Crest| AND |Handgun Ammo Voucher|"
+    },
+    "After Castle": {
+        "connects_to": ["Doll House"],
+        "requires": "|Courtyard Key| AND |Dimitrescu's Key| AND |M1897 Shotgun| AND |Shotgun Ammo Voucher|"
+    },
+    "Doll House": {
+        "connects_to": ["Reservoir"],
+        "requires": "|Winged Key| AND |Four-Winged Key|"
+    },
+    "Reservoir": {
+        "connects_to": ["After Reservoir"],
+        "requires": "|Silver Key| AND |Breaker Box Key| AND |Four-Winged Unborn Key|"
+    },
+    "After Reservoir": {
+        "connects_to": ["Seafood Sunday"],
+        "requires": "|Boat Key|"
+    },
+    "Seafood Sunday": {}
+}
