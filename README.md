@@ -12,4 +12,6 @@ A Manual apworld for Archipelago for Resident Evil Village, but with a fishing-t
 Why not?
 
 ## What's a Manual?
-Manual is an apworld templating system for Archipelago. It allows creating randomizer scenarios for any game, which you complete via an interactive checklist of sorts. Find out more in our Discord: https://discord.gg/T5bcsVHByx
+Manual is an apworld templating system for Archipelago. It allows creating randomizer scenarios for any game, which you complete via an interactive checklist of sorts. 
+
+Find out more in our Discord: https://discord.gg/T5bcsVHByx
